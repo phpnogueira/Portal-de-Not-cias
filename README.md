@@ -6,11 +6,11 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://phpnogueira.github.io/Portal-de-Not-cias/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
 
-
+<a href="https://phpnogueira.github.io/Portal-de-Not-cias/"><h2> clique para ver a página rodando </h2></a>
 
 
 ## 🚀 Tecnologias
