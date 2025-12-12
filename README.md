@@ -10,7 +10,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
   
 </p>
 
-<a href="https://phpnogueira.github.io/Portal-de-Not-cias/"><h2> clique para ver a página rodando </h2></a>
+<a href="https://phpnogueira.github.io/Portal-de-Not-cias/"> clique para ver a página rodando </a>
 
 
 ## 🚀 Tecnologias
