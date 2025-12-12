@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
+
 
 <p align="center">
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
@@ -9,7 +7,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  
 </p>
 
 <p align="center">
@@ -32,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+um portal de notícias para praticar o conhecimento com o Grid!
